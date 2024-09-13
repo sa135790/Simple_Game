@@ -1,0 +1,17 @@
+{
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "game.js",
+  "scripts": {
+    "test": "nodejs"
+  },
+  "keywords": [
+    "task4"
+  ],
+  "author": "Asadujjaman Noor",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9"
+  }
+}
